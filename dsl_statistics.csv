@@ -1,0 +1,12 @@
+Downstream Hızı (Mbps),Upstream Hızı (Mbps),Sinyal Gürültü Oranı Downstream (dB),Sinyal Gürültü Oranı Upstream (dB),Attenuation Downstream (dB),Attenuation Upstream (dB),CRC Hataları,FEC Hataları,HEC Hataları,Bağlantı Durumu
+50,10,30,20,5,2,0,0,0,sağlandı
+20,5,25,18,8,3,5,2,1,sorun var
+35,8,28,19,6,2,1,0,0,sağlandı
+15,3,22,16,10,4,10,5,2,sorun var
+40,9,29,21,7,3,2,1,0,sağlandı
+10,2,20,15,12,5,20,10,5,sorun var
+45,12,31,22,6,2,0,0,0,sağlandı
+30,6,27,18,9,3,3,1,1,sorun var
+25,4,26,17,10,4,4,2,1,sorun var
+50,11,32,23,5,2,0,0,0,sağlandı
+50,15,0,0,9.1,0,1005,0,0,sorun var
